@@ -1,4 +1,4 @@
-package sky.pro.kurs2_exam_questions.repository;
+package sky.pro.kurs2_exam_questions.Repository;
 
 import org.springframework.stereotype.Repository;
 import sky.pro.kurs2_exam_questions.Data.Question;
