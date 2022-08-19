@@ -1,4 +1,4 @@
-package sky.pro.kurs2_exam_questions.Repository;
+package sky.pro.kurs2_exam_questions.repository;
 import sky.pro.kurs2_exam_questions.Data.Question;
 import java.util.Set;
 
